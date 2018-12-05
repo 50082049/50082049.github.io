@@ -3,13 +3,6 @@ layout: post
 title: Jurassic world Dinosyar fights
 ---
 
-
-
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 <iframe width="885" height="498" src="https://www.youtube.com/embed/vLyMUoHSA4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="885" height="498" src="https://www.youtube.com/embed/5JYePB3NOqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
